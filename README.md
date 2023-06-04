@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- I'm currently working on hierarchical reinforcement learning methods
-- I'm currently learning and attempting to develop Julia
-- One of the best recipes I ever developed was marmite ice cream!
-
 <!--
 **DavidSlayback/DavidSlayback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
